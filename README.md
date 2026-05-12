@@ -1,27 +1,27 @@
-# prj-kicad
+# AQI MONITOR
 AQI monitor final
-# PSoC 5LP Stamp Board
+# AQI MONITORThis repository contains all the essential files related to the **AQI Monitor**, a compact and portable air quality monitoring device designed for real-time environmental monitoring. The system is based on the ESP32 microcontroller and integrates multiple sensors and power management circuits for efficient operation. The project includes PCB design files, 3D models, and hardware resources required for development and manufacturing.
 
-This repository contains all the essential files related to the PSoC 5LP Stamp Board,
-a compact, stamp-sized development board based on the Cypress CY8C5888LTI-LP039 (PSoC 5LP)
-microcontroller. It features a single-core ARM Cortex-M3 architecture, a rich set of
-programmable analog peripherals including Delta-Sigma ADCs, DACs, and OpAmps, highly
-flexible digital logic via Universal Digital Blocks (UDBs), and castellated edge pins
-for easy SMD module integration.
 You will find the following:
 
-- **Board Schematic:** A detailed circuit design of the PSoC 5LP Stamp Board.
-- **PCB Layout:** The physical design of the printed circuit board.
-- **PCB Routing:** The connections and pathways for signals and power on the PCB.
+* **Board Schematic:** Complete circuit design of the AQI Monitor including sensor, power management, and ESP32 interfacing circuits.
+* **PCB Layout:** Physical design and component placement of the printed circuit board.
+* **PCB Routing:** Signal and power routing details used in the PCB design.
+* **3D Models:** STEP models of components and the assembled PCB for mechanical visualization.
+* **Custom Footprints and Libraries:** KiCad footprint and library files used in the project.
+* **Manufacturing Files:** Design resources required for PCB fabrication and assembly.
+
+
+
 
 
 ### Tools Used
 
 The electronic design and development were done using **KiCad**, an open-source EDA software.
-The version used for this project is **KiCad 9.0.7**.
+The version used for this project is **KiCad 9.0**.
 
 #### The footprints of all Resistors, Capacitors, Inductors, LEDs:
-`0603_1608Metric_Pad1.08x0.95mm_HandSolder`
+'0402_1005Metric_Pad0.74x0.62mm_HandSolder'
 
 All the files are attached in the repository folder.
 
@@ -35,7 +35,7 @@ The name of the library is:
 
 ## Schematic
 
-![Schematic](https://github.com/kumarveluru/PSoC-5-Stamp-Board/blob/main/Images/Root%20Schematic.png)
+![Schematic]()
 
 
 ---
