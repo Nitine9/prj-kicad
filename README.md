@@ -44,11 +44,8 @@ The name of the library is:
 
 ### Placement of Components
 
-![Component Placement](https://github.com/kumarveluru/PSoC-5-Stamp-Board/blob/main/Images/Placement.png)
+![Component Placement](https://github.com/Nitine9/prj-kicad/blob/main/image/layout.png)
 
-### Overall PCB Layout
-
-![PCB Layout](https://github.com/kumarveluru/PSoC-5-Stamp-Board/blob/main/Images/Layout.png)
 
 ---
 
@@ -56,11 +53,8 @@ The name of the library is:
 
 ### Top View
 
-![3D Top View](https://github.com/kumarveluru/PSoC-5-Stamp-Board/blob/main/Images/3D%20view%20Top.png)
+![3D View](https://github.com/Nitine9/prj-kicad/blob/main/image/3dview.png )
 
-### Bottom View
-
-![3D Bottom View](https://github.com/kumarveluru/PSoC-5-Stamp-Board/blob/main/Images/3D%20view%20Bottom.png)
 
 ---
 
@@ -68,9 +62,9 @@ The name of the library is:
 
 | Parameter | Value    |
 |-----------|----------|
-| Width     | 31.26 mm |
-| Height    | 29.175 mm |
-
+| WIDTH    | 50.68 mm |
+| LENGTH    | 95.56 mm |
+| HEIGHT    | 20 mm    |
 ---
 
 ## License
