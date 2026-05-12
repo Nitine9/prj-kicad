@@ -1,6 +1,6 @@
 # AQI MONITOR
 AQI monitor final
-# AQI MONITORThis repository contains all the essential files related to the **AQI Monitor**, a compact and portable air quality monitoring device designed for real-time environmental monitoring. The system is based on the ESP32 microcontroller and integrates multiple sensors and power management circuits for efficient operation. The project includes PCB design files, 3D models, and hardware resources required for development and manufacturing.
+# AQI MONITOR This repository contains all the essential files related to the **AQI Monitor**, a compact and portable air quality monitoring device designed for real-time environmental monitoring. The system is based on the ESP32 microcontroller and integrates multiple sensors and power management circuits for efficient operation. The project includes PCB design files, 3D models, and hardware resources required for development and manufacturing.
 
 You will find the following:
 
@@ -78,7 +78,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 NITIN PANDEY - nitin.p@iiitb.ac.in  [GitHub Profile](https://github.com/Nitine9)
-Project Link: ([https://github.com/kumarveluru/PSoC-5-Stamp-Boar](https://github.com/Nitine9/prj-kicad/tree/main))
+Project Link: (https://github.com/Nitine9/prj-kicad/tree/main)
 
 
 
