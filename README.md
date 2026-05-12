@@ -35,7 +35,7 @@ The name of the library is:
 
 ## Schematic
 
-![Schematic](image/root-schematic.png)
+![Schematic](https://github.com/Nitine9/prj-kicad/blob/main/image/root-schematic.png)
 
 
 ---
