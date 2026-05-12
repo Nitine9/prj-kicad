@@ -77,8 +77,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-V Kumar - V.Kumar@iiitb.ac.in  [GitHub Profile](https://github.com/Nitine9)
-Project Link: [https://github.com/kumarveluru/PSoC-5-Stamp-Board]([https://github.com/kumarveluru/PSoC-5-Stamp-Boar](https://github.com/Nitine9/prj-kicad/tree/main))
+NITIN PANDEY - nitin.p@iiitb.ac.in  [GitHub Profile](https://github.com/Nitine9)
+Project Link: ([https://github.com/kumarveluru/PSoC-5-Stamp-Boar](https://github.com/Nitine9/prj-kicad/tree/main))
 
 
 
