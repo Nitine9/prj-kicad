@@ -35,7 +35,7 @@ The name of the library is:
 
 ## Schematic
 
-![Schematic]()
+![Schematic](image/root-schematic.png)
 
 
 ---
