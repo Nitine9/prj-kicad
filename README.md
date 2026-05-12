@@ -4,7 +4,7 @@ AQI monitor final
 
 You will find the following:
 
-* **Board Schematic:** Complete circuit design of the AQI Monitor including sensor, power management, and ESP32 interfacing circuits.
+* **Board Schematic:** Complete circuit design of the AQI Monitor including sensor, power management, and ESP32 pico interfacing circuits.
 * **PCB Layout:** Physical design and component placement of the printed circuit board.
 * **PCB Routing:** Signal and power routing details used in the PCB design.
 * **3D Models:** STEP models of components and the assembled PCB for mechanical visualization.
@@ -51,7 +51,6 @@ The name of the library is:
 
 ## 3D View
 
-### Top View
 
 ![3D View](https://github.com/Nitine9/prj-kicad/blob/main/image/3dview.png )
 
@@ -78,7 +77,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-V Kumar - V.Kumar@iiitb.ac.in  [GitHub Profile](https://github.com/kumarveluru)
+V Kumar - V.Kumar@iiitb.ac.in  [GitHub Profile](https://github.com/Nitine9)
 Project Link: [https://github.com/kumarveluru/PSoC-5-Stamp-Board]([https://github.com/kumarveluru/PSoC-5-Stamp-Boar](https://github.com/Nitine9/prj-kicad/tree/main))
 
 
